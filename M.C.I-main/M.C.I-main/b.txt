@@ -1,0 +1,15 @@
+                                                                        visual
+   In this method of learning , you can choose the alphabet you want to learn .
+   then the mosrse code of the selected alphabet will produce light flash. 
+   for the dot the blink is short and the blink for the dash is prolonged.
+        
+                  HAPPY LEARNING!!!!
+
+
+                                                                  audio
+
+In this method of learning , you can choose the alphabet you want to learn.
+then the morse code of the selected alphabet will produce  a certain sound for
+representing the dots and dashes.
+the dots produce a short sound whereas the dashes produce a prolonged sound.
+

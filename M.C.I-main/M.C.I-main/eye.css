@@ -1,0 +1,18 @@
+.table{
+    background-color: rgb(34, 59, 250);
+    font-size:50px;
+    width:500px;
+    height: 500px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 5px solid rgb(174, 0, 0);
+    border-collapse: collapse;
+    color: rgb(158, 3, 3);
+    
+  }
+  th, td {
+    background-color: #51b3f5;
+  }

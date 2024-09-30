@@ -1,0 +1,37 @@
+                               IMPORTANT!!
+HEYYA There, this note is brief introduction on how to use this program
+going forth.
+    
+Basic info on Morse COde:
+Morse code is a method used in telecommunication to encode text characters
+ as standardized sequences of two different signal durations, called dots 
+and dashes, or dits and dahs. Morse code is named after Samuel Morse,
+ one of the inventors of the telegraph.
+
+                         USES OF MORSE CODE
+Emergency communication: Morse code is an efficient way to communicate about 
+emergency situations since you can send such messages via ham radio transmitters
+ with little power and less bandwidth than other standard voice communication tools.
+ In addition, because these messages are only intelligible to people who are fluent 
+in the code, it serves as a helpful tool for confidential communications.
+
+
+Intellectual enrichment: While Morse code doesn't have as many applications as it
+ once did in the professional sphere, 
+learning it can offer you a significant amount of enrichment intellectually. 
+Challenging yourself to learn the code can allow you to engage in a mental activity 
+that may strengthen your capacity to learn other useful skills.
+
+
+In our website we use different visual colors and various audio to educate 
+our users with the Morse Code and a Simple way on learning the Code.
+
+To educate children who are specially abled, we will engage different methods
+like Visual method (By the use of White and black screens) and Audible method 
+(By the use of sound).
+
+Children who are visually challanged can access the Audible  mode of learning and 
+the children who are deaf can access the visual mode of learning.
+
+                      
+    

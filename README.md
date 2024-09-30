@@ -14,19 +14,19 @@ The Morse Code Instructor is built using modern web technologies:
 HTML: Defines the structure of the web pages, providing a clear and accessible layout.
 CSS: Ensures visually appealing styling for a more engaging user experience.
 JavaScript: Powers the functionality and interactivity, making the application responsive and dynamic.
-## Installation
+##  Installation
 No installation is required. To get started, simply download the project files and open the index.html file in your preferred web browser. The application is ready to use directly from your local machine.
 
-## Usage
+##  Usage
 To begin your journey in learning Morse code, follow these simple steps:
 
 Launch the Application: Open the index.html file in your web browser. This is the starting point for accessing all the learning features.
 
 Select Your Learning Method:
 
-## Visual Method:
+###  Visual Method:
 Click to open the visual.html file, where you can learn Morse code through visual aids. Letters, numbers, and symbols are displayed alongside their Morse code equivalents.
-## Audio Method:
+###  Audio Method:
 Open the audio.html file to begin learning through auditory signals. This method will allow you to practice recognizing Morse code by sound.
-## Practice and Test: 
+### Practice and Test: 
 Follow the instructions on the screen to practice Morse code. Whether you prefer visual cues or audio signals, the application provides a comprehensive practice environment. Challenge yourself with different levels to enhance your proficiency.
